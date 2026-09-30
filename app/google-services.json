@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807030247819",
+    "project_id": "contactcloud-b9309",
+    "storage_bucket": "contactcloud-b9309.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807030247819:android:1ab9a2d8f7578580919f8e",
+        "android_client_info": {
+          "package_name": "thanhdnh.ueh.edu.articleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1h-1Oirs5UMQncFXDwMzGEArd6ZY1DhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
